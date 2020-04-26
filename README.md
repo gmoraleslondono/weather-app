@@ -1,6 +1,6 @@
 # weather-app
 
-> My good Nuxt.js project
+🌦 Weather app using the OpenWeatherMap API and Nuxt.js
 
 ## Build Setup
 
